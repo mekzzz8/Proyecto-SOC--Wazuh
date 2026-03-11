@@ -32,7 +32,7 @@ Una vez hemos configurado y encendido las dos máquinas, necesitamos mapear nues
 
 Lo primero que tenemos que hacer es comprobar la conectividad entre las dos máquinas. Para ello realizamos un Ping desde Powershell con el comando --> `ping + la ip de ubuntu` - Ejemplo: "ping 192.168.x.x"
 
-*Nota: Si ejecutamos el ping desde ubuntu a Windos es propable que falle por el firewalls del propio windows*
+*Nota: Si ejecutamos el ping desde ubuntu a Windos es propable que falle por el firewall del propio windows*
 
 ## Preparación del Servidor
 
